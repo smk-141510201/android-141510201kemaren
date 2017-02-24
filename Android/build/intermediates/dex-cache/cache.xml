@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Andoroid\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\Andoroid\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\com.mcxiaoke.volley-library-aar-1.0.0_24c0de4157dc5fbd59bb3bec32e0d2815e2b2ba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Andoroid\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Andoroid\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_75b6e437ccea52c7b05d47d3ed8bf738f156b724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Andoroid\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Andoroid\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_19df02349a79cff71282906229d76e647b756d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Andoroid\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Andoroid\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_85af2e12c18e1ce33554caf7445cfff7b5c7312a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Andoroid\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_6ededcc9b39f46fbcdd6efbd1a4d51bb6afd2a15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Andoroid\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Andoroid\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_6752da00eb7eb7d6a3f37df02d1facf2904438fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Andoroid\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_badcc59626c8bf60fbd570ba883ac0f8d5c9be7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Andoroid\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Andoroid\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_abc1f303ad606d7dc0cd3897f024ac025d9f240f.jar" />
+    </item>
+
+</items>
